@@ -1,4 +1,0 @@
-#Thu Jun 01 18:59:09 EET 2023
-base.0=D\:\\GP\\Project\\ev_admin_terminal\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
